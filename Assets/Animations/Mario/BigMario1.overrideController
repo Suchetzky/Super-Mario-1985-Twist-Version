@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BigMario1
+  m_Controller: {fileID: 9100000, guid: 37423dfbec15dfc4db29505621714fcc, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b26db686bd9264343a276ee68187054b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6952eefbd92a1d24e82129b42809c451, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9642fd492eb379344b2ca270b94dc46e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 061909063a1582642ab3a295b6e3d495, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0c69f3893f5dd874587d7ecb6171ed1d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 620185c97ef60a145978315faab177e6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e602fba4302566949b44d2e1cf2317bf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e602fba4302566949b44d2e1cf2317bf, type: 2}
